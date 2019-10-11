@@ -31,6 +31,6 @@ The ERP charges you pay depends on:
 # Resources
 
 - [OneMonitoring](<https://www.onemotoring.com.sg/content/onemotoring/home.html>)
-- [Land Transport Data Mall](<https://www.mytransport.sg/content/mytransport/home/dataMall>)
+- [Land Transport Data Mall](<https://www.mytransport.sg/content/mytransport/home/dataMall/static-data.html#Road%20Infrastructure>)
 - [LTA](<https://www.lta.gov.sg/content/ltaweb/en/roads-and-motoring/managing-traffic-and-congestion/electronic-road-pricing-erp.html>)
 - 
