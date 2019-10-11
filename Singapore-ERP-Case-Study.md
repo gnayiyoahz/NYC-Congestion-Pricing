@@ -4,8 +4,11 @@
 
 #### What is ERP
 
-- ERP is an **Electronic Road Pricing System** used in **managing road congestion**. Based on a pay-as-you-use principle, motorists are charged when they use priced roads during peak hours.
-- ERP rates vary for different roads and time periods depending on local traffic conditions. This encourages motorists to change their mode of transport, travel route or time of travel.
+- The ERP was implemented by the [Land Transport Authority]( <https://www.lta.gov.sg/content/ltagov/en.html>) in September 1998.
+
+- ERP is an Electronic Road Pricing System used in **managing road congestion**. 
+- Charged when drivers use priced roads during peak hours.
+- ERP rates vary for different roads and time periods depending on local traffic conditions. 
 
 #### Benefits
 
