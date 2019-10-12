@@ -54,6 +54,8 @@ The ERP charges you pay depends on:
   - The capital cost of the ERP system, since its inception in September 1998 is S\$197 million and incurs an annual operational and maintenance cost of S​\$25 million for 66 control gantries (in 2009). 
   - The program’s annual revenue is estimated at S​\$144 million in 2008-09.
   - The ERP system starts with the installation of an in-vehicle unit (IU) in each of the ~900,000 vehicles in Singapore. The new IU costs about S​$155 and is powered by the vehicle battery. 	
+  - 2016-2017: Revenues from the pricing system average S\$80 million per year, while annual operating costs amount to S​\$16 million. The capital costs of ERP totaled
+    S\$197 million.
 
 
 
@@ -63,7 +65,11 @@ The ERP charges you pay depends on:
 
 #### 	Government: Revenue Maximization
 
+#### Real Estate 
 
+- Interesting
+
+- <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2432052>
 
 ### Impact 
 
@@ -81,7 +87,7 @@ The ERP charges you pay depends on:
 
 #### 	Public Transport
 
-
+- 
 
 #### 	Carparks (?)
 
@@ -111,4 +117,5 @@ The ERP charges you pay depends on:
 - [Land Transport Data Mall](<https://www.mytransport.sg/content/mytransport/home/dataMall/static-data.html#Road%20Infrastructure>)
 - [LTA](<https://www.lta.gov.sg/content/ltaweb/en/roads-and-motoring/managing-traffic-and-congestion/electronic-road-pricing-erp.html>)
 - <http://www.environmentportal.in/files/ERP-Singapore-Lessons.pdf>
+- <https://ops.fhwa.dot.gov/publications/fhwahop08047/02summ.htm>
 
