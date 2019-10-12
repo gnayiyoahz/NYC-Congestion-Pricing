@@ -71,9 +71,13 @@ The ERP charges you pay depends on:
 
 - ERP fares paid by taxi drivers
 
-- Based on the analysis of the Taxi data, the number of taxis started to drop significantly at the end of 2016/beginning of 2017.
+- [Exploratory Daat Analysis] Based on the analysis of the Taxi data, the number of taxis started to drop significantly at the end of 2016/beginning of 2017, while the total number of all cars did not.
 
   ![taxi](/fig/num-taxi.png)
+
+  ![all](/fig/num-vehicle.png)
+
+  No major increase in ERP Prices/Gantries
 
 #### 	Public Transport
 
