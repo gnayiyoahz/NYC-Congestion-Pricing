@@ -1,5 +1,5 @@
 ---
-title: "Analysis of the XX Dataset"
+title: "Analysis of the Taxi Dataset"
 output: html_document
 ---
 # Summary of the Dataset

@@ -1,0 +1,40 @@
+# Metadata for LTA Gantry
+---
+Identifier: 'e6f2990a-4d1b-4041-8423-275d3b140ecb'
+Name: 'lta-gantry'
+Title: 'LTA Gantry'
+Description: 'A raised metallic structure spanning across acarriageway or along roadways
+  to support signages or electronic equipment such as ERP, EMAS etc.'
+Topics:
+  - 'Transport'
+Keywords:
+  - 'EMAS'
+  - 'ERP'
+  - 'Gantry'
+  - 'Sensor'
+  - 'Sensors'
+  - 'Signage'
+Publisher:
+  Name: 'Land Transport Authority'
+  Admin 1:
+    Name: 'LANA HOW'
+    Department: 'LAND TRANSPORT AUTHORITY'
+    Email: 'lana_how@lta.gov.sg'
+Sources:
+  - 'Land Transport Authority'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Ad-hoc'
+Last Updated: '2019-07-27T00:04:42.142577'
+Resources:
+  -
+    Identifier: '55ed9c6c-7144-433e-8eab-0851c5328ae4'
+    Title: 'LTA Gantry (KML)'
+    Url: 'https://geo.data.gov.sg/gantry/2019/07/08/kml/gantry.kml'
+    Format: 'KML'
+    Last Updated: '2019-07-07T16:00:00'
+  -
+    Identifier: '38975e46-8677-476e-87c9-78249ee3ddae'
+    Title: 'LTA Gantry (GEOJSON)'
+    Url: 'https://geo.data.gov.sg/gantry/2019/07/08/geojson/gantry.geojson'
+    Format: 'GeoJSON'
+    Last Updated: '2019-07-07T16:00:00'
