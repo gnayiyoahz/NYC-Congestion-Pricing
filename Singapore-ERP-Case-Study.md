@@ -44,6 +44,10 @@ The ERP charges you pay depends on:
 - **2008 (Major Facility Improvement)**: 85th percentile speed used for determining ERP rates instead of average speeds (50th percentile); Number of gantries progressively introduced to 66; ERP rate changes to be in steps of S​\$1 instead of S\$50 cents
 - 2009: Dual mode IU accepting contact and contactless smart cards made available; ERP credit card scheme3 was introduced.
 
+### Number of Gantries
+
+![erp](/fig/num-erp.png)
+
 ### Basic Data
 
 - Cost & Revenue
